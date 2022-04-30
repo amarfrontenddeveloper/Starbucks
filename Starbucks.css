@@ -1,0 +1,327 @@
+*
+{
+	margin: -2px;
+	font-family: 'Raleway', sans-serif;
+}
+.container
+{
+	position: relative;
+}
+.img1
+{
+	width: 100%;
+}
+.nav
+{
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index:1;
+}
+.nav ul
+{
+	display: flex;
+	margin-left: 350px;
+	margin-top: 20px;
+	position: fixed;
+	
+
+}
+li
+{
+	margin-left: 90px;
+
+
+}
+ul
+{
+	list-style-type: none;
+	
+}
+.nav a
+{
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #CC9976;
+	font-size: 20px;
+	padding: 0px;
+}
+ .nav a:hover
+{
+	border-bottom:4px solid #CC9976;
+	padding: 12PX;
+}
+.div1
+{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+}
+
+
+.nameslogen
+{
+	width: 350px;
+	height: 120px;
+	background-color: #3F3521;
+	color: white;
+	opacity: 85%;
+	text-align: center;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+.name p
+{
+	font-size: 40px;
+	margin-top: 10px;
+}
+.slogen p
+{
+  margin-top: 20px;
+  color:#CC9976;
+}
+.para
+{
+	width: 350px;
+	height: 300px;
+	background-color: #3F3521;
+	color: white;
+	opacity: 85%;
+	margin-top: 18px;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+.para1
+{
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right:73px;
+}
+.para2
+{
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-right:35px;
+	font-size: 16px;
+}
+.para2 a
+{
+	text-transform: lowercase;
+	font-size: 16px;
+	color: yellow;
+}
+.para2 a:hover
+{
+	color: cyan;
+}
+.cup
+{
+	width: 200px;
+	height: 40px;
+	background-color: #3F3521;
+	margin-left: 100px;
+	opacity: 85%;
+	margin-left: 120px;
+	margin-top: 10px;
+	border-radius: 8px;
+	text-align:center;
+	padding-top: 20px;
+}
+.lets
+{
+	text-transform:none;
+
+}
+.img2
+{
+	width: 100%;
+	position: relative;
+
+}
+.part2
+{
+	width: 100%;
+}
+.Specialpart1,.Specialpart2
+{
+	width: 40%;
+	height: 500px;
+	background-color: #544639;
+	margin-left: 60px;
+	border-radius: 10px;
+	padding-left: 20px;
+}
+
+
+.cupprince1
+{
+	margin-left: 10px;
+}
+.price1
+{
+	margin-left: 60px;
+	margin-right: -300px;
+	margin-top: 30px;
+	color: white;
+}
+.price2
+{
+    margin-left: 20px;
+    width: 120px;
+	margin-right: -300px;
+	margin-top: 20px;
+	color: white;
+}
+.Special1{
+	width: 50%;
+
+		
+}
+.cupprince1
+{
+	display:flex;
+}
+
+
+.specialdiv
+{
+	display: flex;
+	
+
+}
+.Specialpart1
+{
+	position: absolute;
+	top: 1000px;
+	left: 0px;
+}
+.Specialpart2
+{
+	position: absolute;
+	top: 1000px;
+	left: 450px;
+}
+.heading
+{
+	width: 400px;
+	height: 70px;
+	border-radius: 5px;
+	background-color: white;
+	text-align: center;
+	font-size: 15px;
+	margin-left: 300px;
+	position: absolute;
+	top: 900px;
+	left: 0px;
+	color: #666666;
+
+}
+.Specialbar
+{
+	padding-top: 15px;
+}
+
+.cup2
+{
+	
+	margin-left:380px;
+	
+}	
+
+.cup1 img
+{
+	width: 120px;
+	margin-top: 20px;
+	border-radius: 5px;
+	
+}
+.cup2 img
+{
+	width: 120px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+.coffeename
+{
+	color: #ffcc66;
+}
+.margeimg
+{
+	width: 100%;
+}
+.margeimage1
+{
+	position: relative;
+}
+.about
+{
+	width: 520px;
+	height: 420px;
+	background-color: white;
+	border-radius: 8px;
+	position: absolute;
+	top: 1700px;
+	left: 420px;
+	opacity: 80%;	
+}
+.abouth p
+{
+	font-size: 30px;
+	margin-left: 40px;
+    margin-top: 30px;
+    color: #236666;
+
+}
+.abouttext p
+{
+	font-size: 15px;
+	margin-left: 25px;
+    margin-top: 30px;
+    margin-right: 25px;
+} 
+.abouttext a
+{
+  font-size: 15px;
+  color: #236666;
+}
+.abouttext a:hover
+{
+  
+  color: pink;
+}
+.chat
+{
+	width: 200px;
+	height: 50px;
+	background-color: #0A8585;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 25px;
+	position: absolute;
+	top: 2170px;
+	left: 450px;
+
+
+}
+
+.chat p ,a
+{
+	
+	color: white;
+	margin-top: 8px;
+	text-decoration: none;
+}
+.chat:hover
+{
+	
+	opacity: 80%;
+}
+.footer img
+{
+	width: 100%;
+}
+
+
